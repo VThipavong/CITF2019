@@ -1,0 +1,23 @@
+div {
+    width: 150px;
+    height: 75px;
+    boder: 25px solid gray;
+    border-radius: 60%;
+    display: inline-block;
+
+}
+.lemon1{
+    background-color: pink;
+}
+.lemon2{
+    background-color: rgb(204, 37, 65);
+}
+.lemon3{
+    background-color: rgb(82, 25, 35);
+}
+.lemon4{
+    background-color: rgb(255, 45, 80);
+}
+.lemon5{
+    background-color: rgb(255, 0, 43);
+}
