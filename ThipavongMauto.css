@@ -1,0 +1,24 @@
+body {
+    width: 40%;
+    margin: 0 auto;
+    width: 800px;
+    height: 478px;
+    text-align: center;
+    padding-block: blueviolet;
+    background-color:purple;
+    border: 10px solid rgb(126, 179, 28);
+}
+div {
+    background-color: pink;
+}
+h1{
+    font-size: 24pt;
+    color: red;
+    
+}
+
+h2 {
+    font-size: 24pt;
+    color: orange;
+    
+}
