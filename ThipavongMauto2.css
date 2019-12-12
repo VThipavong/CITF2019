@@ -1,0 +1,29 @@
+div {
+    width: 150px;
+    height: 60px;
+    border: 2px solid black;
+    border-radius: 2%;
+    display: inline-block;
+    box-align: center;
+
+}
+body {
+    width: 40%;
+    margin: 50px auto;
+    width: 1200px;
+    height: 360px;
+    text-align: center;
+    border: 10px solid pink;
+}
+.lemon1{
+    background-color: red;
+}
+.lemon2{
+    background-color: green;
+}
+.lemon3{
+    background-color: cyan;
+}
+.lemon4{
+    background-color: yellow;
+}
