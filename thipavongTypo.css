@@ -1,0 +1,19 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 32px;
+}
+p {
+    margin: 16px;
+}
+p::first-letter {
+    font-family: cursive;
+    font-size: 64px;
+    line-height: 1;
+}
+p::first-line {
+    color:violet;
+    background-color: teal;
+    font-weight: 750;
+
+}
