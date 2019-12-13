@@ -1,0 +1,22 @@
+html, body {
+    padding: 0;
+    border: 5px solid pink;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    color:white;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 10px solid pink;
+    background-image: url("https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_1280.jpg");
+background-repeat: no-repeat;
+}
+p {
+    font-size: 4rem;
+    text-align: center;
+}
