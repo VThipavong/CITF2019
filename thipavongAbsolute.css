@@ -1,0 +1,23 @@
+body {
+    border: 2px solid blue;
+    width: 60%;
+}
+div {
+    background-color: black;
+    border: 2px solid red;
+}
+#one {
+    background-color: Yellow;
+    width: 600px;
+    height: 400px;
+    position: relative;
+}
+#two {
+    background-color: pink;
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 240px;
+    right: 100px;
+
+}
