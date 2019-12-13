@@ -1,0 +1,8 @@
+#box {
+    width: 150px;
+    height: 150px;
+    background: green;
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
